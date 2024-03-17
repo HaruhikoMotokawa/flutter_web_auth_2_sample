@@ -1,16 +1,21 @@
 # flutter_web_auth_2_sample
 
-A new Flutter project.
+このプロジェクトはFlutterでQiitaAPIとOAuth2.0を使った認証と認可を行うサンプルプログラムです。
 
-## Getting Started
+## 概要
+アプリでサーバー側の認証と認可を行うパッケージであるflutter_web_auth_2を使ったサンプルを
+目的に当初は作成していましたが。
+しかし、認証と認可を行うためには多くのパッケージを必要としました。
+よってタイトルのパッケージ以外にも多彩なパッケージを使っています。
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+主なパッケージ
+- flutter_web_auth_2
+- envied:
+- dio:
+- shared_preferences:
+- flutter_riverpod:
+- flutter_hooks:
+- hooks_riverpod:
+- flutter_secure_storage:
+- freezed_annotation:
+- json_annotation:
