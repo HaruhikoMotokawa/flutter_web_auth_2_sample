@@ -1,4 +1,4 @@
-import 'package:flutter_web_auth_2_sample/entity/user.dart';
+import 'package:flutter_web_auth_2_sample/common_file/entity/user.dart';
 import 'package:flutter_web_auth_2_sample/refactor_now/service/api_client.dart';
 import 'package:flutter_web_auth_2_sample/refactor_now/service/secure_storage.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';

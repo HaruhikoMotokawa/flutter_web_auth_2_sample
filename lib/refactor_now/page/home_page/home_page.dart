@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:flutter_web_auth_2_sample/entity/user.dart';
+import 'package:flutter_web_auth_2_sample/common_file/entity/user.dart';
 import 'package:flutter_web_auth_2_sample/refactor_now/page/home_page/home_page_view_model.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 

@@ -5,7 +5,7 @@ import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:flutter_web_auth_2_sample/plain/state/access_token_state.dart';
 import 'package:flutter_web_auth_2_sample/plain/page/plain_home_page.dart';
 import 'package:flutter_web_auth_2_sample/plain/page/plain_login_page_controller.dart';
-import 'package:flutter_web_auth_2_sample/show_custom_snack_bar.dart';
+import 'package:flutter_web_auth_2_sample/common_file/show_custom_snack_bar.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class PlainLoginPage extends HookConsumerWidget {

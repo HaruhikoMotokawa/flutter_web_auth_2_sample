@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:flutter_web_auth_2_sample/refactor_now/page/home_page/home_page.dart';
 import 'package:flutter_web_auth_2_sample/refactor_now/page/login_page/login_page_view_model.dart';
-import 'package:flutter_web_auth_2_sample/show_custom_snack_bar.dart';
+import 'package:flutter_web_auth_2_sample/common_file/show_custom_snack_bar.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class LogInPage extends HookConsumerWidget {
